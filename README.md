@@ -2,8 +2,6 @@
 
 6 年数据分析+业务复合经验，聚焦电商、本地生活、经营分析、指标体系、报表自动化、GMV 归因、补贴 ROI、商家分层与运营策略复盘。坐标杭州，可尽快到岗。
 
-> 说明：本仓库所有内容均为脱敏后的方法论与案例，不包含原始业务数据、内部链接、商家/主播/用户标识、预算池编号、公司内部文档截图或可还原的业务机密。
-
 ## 能力
 
 | 业务场景 | 可交付结果 | 典型能力 |
@@ -29,7 +27,6 @@
 - [指标字典模板](templates/metrics-dictionary.md)
 - [周报复盘模板](templates/weekly-review-template.md)
 - [Excel 自动化报表结构](templates/excel-automation-structure.md)
-- [脱敏与公开说明](privacy-redaction.md)
 
 ### SQL 
 
@@ -37,7 +34,7 @@
 - [新老客复购 SQL](sql/cohort_repurchase.sql)
 - [补贴 ROI 监控 SQL](sql/subsidy_roi_monitor.sql)
 
-## 可量化成果
+## 成果
 
 - 从 0 搭建真人直播、数字人、短视频 3 类渠道的日/周报体系。
 - 搭建 10+ 个业务监控看板，覆盖 GMV、流量、供给、转化、目标进度等模块。
