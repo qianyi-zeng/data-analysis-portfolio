@@ -1,0 +1,17 @@
+.DS_Store
+.private/
+private-audit.md
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.zip
+*.csv
+*.tsv
+__pycache__/
