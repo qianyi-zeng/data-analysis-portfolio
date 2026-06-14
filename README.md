@@ -1,10 +1,10 @@
 # 曾倩怡 | 数据分析作品集
 
-6 年业务数据分析经验，聚焦电商、本地生活、经营分析、指标体系、报表自动化、GMV 归因、补贴 ROI、商家分层与运营策略复盘。坐标杭州，可尽快到岗。
+6 年数据分析+业务复合经验，聚焦电商、本地生活、经营分析、指标体系、报表自动化、GMV 归因、补贴 ROI、商家分层与运营策略复盘。坐标杭州，可尽快到岗。
 
-> 公开说明：本仓库所有内容均为脱敏后的方法论与案例复盘，不包含原始业务数据、内部链接、商家/主播/用户标识、预算池编号、公司内部文档截图或可还原的业务机密。
+> 公开说明：本仓库所有内容均为脱敏后的方法论与案例，不包含原始业务数据、内部链接、商家/主播/用户标识、预算池编号、公司内部文档截图或可还原的业务机密。
 
-## 我能解决的问题
+## 能力
 
 | 业务场景 | 可交付结果 | 典型能力 |
 | --- | --- | --- |
@@ -16,7 +16,7 @@
 
 ## 作品目录
 
-### 案例复盘
+### 案例
 
 1. [电商行业中台数据监控体系](case-studies/01-ecommerce-data-midplatform.md)
 2. [GMV 波动与渠道归因分析](case-studies/02-gmv-and-channel-diagnosis.md)
@@ -24,14 +24,14 @@
 4. [新商冷启与主播分层增长](case-studies/04-merchant-cold-start-and-layering.md)
 5. [本地生活商家增长复盘](case-studies/05-local-life-growth-review.md)
 
-### 可复用资产
+### 资产
 
 - [指标字典模板](templates/metrics-dictionary.md)
 - [周报复盘模板](templates/weekly-review-template.md)
 - [Excel 自动化报表结构](templates/excel-automation-structure.md)
-- [脱敏与公开边界说明](privacy-redaction.md)
+- [脱敏与公开说明](privacy-redaction.md)
 
-### SQL 样例
+### SQL 
 
 - [渠道日监控 SQL](sql/daily_channel_kpi.sql)
 - [新老客复购 SQL](sql/cohort_repurchase.sql)
@@ -44,7 +44,7 @@
 - 通过 Excel 自动化模板将日/周报产出时长压缩约 5 小时，数据准确率提升至约 98%。
 - 在本地生活项目中，支持餐饮品牌月均 GMV 从 0 增长至 300 万+，单场直播 GMV 从 100 万+ 提升至 200 万+。
 
-## 能力
+## 总结
 
 - 不只会拉数：能把业务问题拆成指标树，并给出可执行动作。
 - 不只会做报表：能沉淀报表口径、自动化模板、看板和 SOP，降低团队重复劳动。
