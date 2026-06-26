@@ -1,5 +1,5 @@
--- Daily channel KPI monitoring sample.
--- All table names and fields are anonymized. Replace them with your warehouse schema.
+-- Daily channel KPI monitoring.
+
 
 WITH order_base AS (
     SELECT
