@@ -1,4 +1,4 @@
--- New customer cohort repurchase sample.
+-- New customer cohort repurchase.
 -- Purpose: evaluate whether acquisition brings long-term value.
 
 WITH first_order AS (
