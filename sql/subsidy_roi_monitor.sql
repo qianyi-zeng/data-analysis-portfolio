@@ -1,4 +1,4 @@
--- Subsidy ROI monitoring sample.
+-- Subsidy ROI monitoring.
 -- Purpose: compare subsidized performance with a baseline and identify inefficient spend.
 
 WITH campaign_order AS (
